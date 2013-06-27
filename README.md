@@ -33,10 +33,10 @@ Table for two
 
 <table>
   <tr>
-    <th>ID</th><th>Name</th><th>Rank</th>
+    <th>Breakfast</th><th>Lunch</th><th>Supper</th>
   </tr>
   <tr>
-    <td>1</td><td>Tom Preston-Werner</td><td>Awesome</td>
+    <td>1</td><td>Bran Flakes</td><td>7 am</td>
   </tr>
   <tr>
     <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
