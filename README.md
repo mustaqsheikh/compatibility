@@ -61,8 +61,8 @@ Some Useful Links
   [2]: http://www.yootheme.com/zoo/documentation/  "ZOO Documentation"
   [3]: http://joomla.org/    "Joomla!"
   
- Contributing to ZOO Compatability Element
----------------------------
+Contributing to ZOO Compatability Element
+-----------------------------------------
 
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
@@ -75,10 +75,14 @@ Credits
 -------
 
 * [Matthew Baylor](#) for making the original suggestion for the development of this element.
-* [Michael Maass](https://github.com/michaelmaass) for advice and encouragement.
-* [Jan Schoenherr](https://github.com/janschoenherr) for advice adn improvements.
+* [Michael Maass](https://github.com/michaelmaass) for advice, testing and encouragement.
+* [Jan Schoenherr](https://github.com/janschoenherr) for advice and improvements.
 
 Copyright
 ---------
 
-Copyright (c) 2013 Mustaq Sheikh. See LICENSE.txt for further details. 
+Copyright (c) 2013 Mustaq Sheikh.
+
+* Distributed under the GNU General Public License version 2 or later
+
+See LICENSE.txt for further details. 
