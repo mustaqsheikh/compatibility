@@ -13,14 +13,13 @@ Follow these siple steps:
 * Download the package to your Desktop
 * Unzip on your Desktop
 * FTP the resultant folder to your Joomla roots `media/zoo/elements/` directory
-* Vistit your ZOO Admin and assign the element to your Apps Type and App templates layout positions.
+* Visit your ZOO Admin and assign the element to your Apps Type and App templates layout positions. You will find a link at the bottom of this page to the ZOO Documentation if you are new to ZOO.
 
-These are dangerous goodies though, and we need to make sure email addresses don't get mangled:
 
-This is a sub heading
---------------------
+Element Options
+---------------
 
-Some people seem to like definition lists
+The element offers the following options ;
 
 <dl>
   <dt>Lower cost</dt>
