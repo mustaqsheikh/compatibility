@@ -74,7 +74,7 @@ Contributing to ZOO Compatibility Element
 Credits
 -------
 
-* [Matthew Baylor](#) for making the original suggestion for the development of this element.
+* [Matthew Baylor](https://github.com/natselection) for making the original suggestion for the development of this element.
 * [Michael Maass](https://github.com/michaelmaass) for advice, testing and encouragement.
 * [Jan Schoenherr](https://github.com/janschoenherr) for advice and improvements.
 
