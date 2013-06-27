@@ -1,0 +1,170 @@
+/* Copyright (C) 2011 HerdBoy.com */
+div.compat {
+	float: none;
+	height: auto;
+	margin-top: 8px;
+	width: auto;
+	min-width: 305px;
+}
+.compat15, .compat25, .compat30, .compat31, .compatzoo3 {
+	float: left;
+	height: auto;
+	margin-right: 10px;
+	width: auto;
+}
+.compat15 {
+	-moz-box-shadow: inset 0px 1px 0px 0px #d9fbbe;
+	-webkit-box-shadow: inset 0px 1px 0px 0px #d9fbbe;
+	box-shadow: inset 0px 1px 0px 0px #d9fbbe;
+	background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #7eb302), color-stop(1, #a5cc52) );
+	background: -moz-linear-gradient( center top, #7eb302 5%, #a5cc52 100% );
+	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#7eb302', endColorstr='#a5cc52');
+	background-color: #7eb302;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	border: 1px solid #83c41a;
+	display: inline-block;
+	color: #ffffff;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 3px 7px;
+	text-decoration: none;
+	text-shadow: 1px 1px 0px #86ae47;
+}
+.compat15:hover {
+	background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #a5cc52), color-stop(1, #7eb302) );
+	background: -moz-linear-gradient( center top, #a5cc52 5%, #7eb302 100% );
+	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#a5cc52', endColorstr='#7eb302');
+	background-color: #a5cc52;
+}
+.compat15:active {
+	position: relative;
+	top: 1px;
+}
+.compat25 {
+	-moz-box-shadow: inset 0px 1px 0px 0px #d197fe;
+	-webkit-box-shadow: inset 0px 1px 0px 0px #d197fe;
+	box-shadow: inset 0px 1px 0px 0px #d197fe;
+	background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #a53df6), color-stop(1, #7c16cb) );
+	background: -moz-linear-gradient( center top, #a53df6 5%, #7c16cb 100% );
+	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#a53df6', endColorstr='#7c16cb');
+	background-color: #a53df6;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	border: 1px solid #9c33ed;
+	display: inline-block;
+	color: #ffffff;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 3px 7px;
+	text-decoration: none;
+	text-shadow: 1px 1px 0px #7d15cd;
+}
+.compat25:hover {
+	background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #7c16cb), color-stop(1, #a53df6) );
+	background: -moz-linear-gradient( center top, #7c16cb 5%, #a53df6 100% );
+	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#7c16cb', endColorstr='#a53df6');
+	background-color: #7c16cb;
+}
+.compat25:active {
+	position: relative;
+	top: 1px;
+}
+.compat30 {
+	-moz-box-shadow: inset 0px 1px 0px 0px #fceaca;
+	-webkit-box-shadow: inset 0px 1px 0px 0px #fceaca;
+	box-shadow: inset 0px 1px 0px 0px #fceaca;
+	background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffce79), color-stop(1, #eeaf41) );
+	background: -moz-linear-gradient( center top, #ffce79 5%, #eeaf41 100% );
+	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#ffce79', endColorstr='#eeaf41');
+	background-color: #ffce79;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	border: 1px solid #eeb44f;
+	display: inline-block;
+	color: #ffffff;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 3px 7px;
+	text-decoration: none;
+	text-shadow: 1px 1px 0px #ce8e28;
+}
+.compat30:hover {
+	background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #eeaf41), color-stop(1, #ffce79) );
+	background: -moz-linear-gradient( center top, #eeaf41 5%, #ffce79 100% );
+	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#eeaf41', endColorstr='#ffce79');
+	background-color: #eeaf41;
+}
+.compat30:active {
+	position: relative;
+	top: 1px;
+}
+.compat31 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #fbafe3;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #fbafe3;
+	box-shadow:inset 0px 1px 0px 0px #fbafe3;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #990554), color-stop(1, #db1481) );
+	background:-moz-linear-gradient( center top, #990554 5%, #db1481 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#990554', endColorstr='#db1481');
+	background-color:#990554;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #700854;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:12px;
+	font-weight:bold;
+	padding:3px 7px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #9c0254;
+}.compat31:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #db1481), color-stop(1, #990554) );
+	background:-moz-linear-gradient( center top, #db1481 5%, #990554 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#db1481', endColorstr='#990554');
+	background-color:#db1481;
+}.compat31:active {
+	position:relative;
+	top:1px;
+}
+.compatzoo3 {
+	-moz-box-shadow: inset 0px 1px 0px 0px #97c4fe;
+	-webkit-box-shadow: inset 0px 1px 0px 0px #97c4fe;
+	box-shadow: inset 0px 1px 0px 0px #97c4fe;
+	background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3d94f6), color-stop(1, #1e62d0) );
+	background: -moz-linear-gradient( center top, #3d94f6 5%, #1e62d0 100% );
+	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#3d94f6', endColorstr='#1e62d0');
+	background-color: #3d94f6;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	border: 1px solid #337fed;
+	display: inline-block;
+	color: #ffffff;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 3px 7px;
+	text-decoration: none;
+	text-shadow: 1px 1px 0px #1570cd;
+}
+.compatzoo3:hover {
+	background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #1e62d0), color-stop(1, #3d94f6) );
+	background: -moz-linear-gradient( center top, #1e62d0 5%, #3d94f6 100% );
+	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#1e62d0', endColorstr='#3d94f6');
+	background-color: #1e62d0;
+}
+.compatzoo3:active {
+	position: relative;
+	top: 1px;
+}
+.creation-form .element div.nrow {
+	margin-top: 10px;
+}

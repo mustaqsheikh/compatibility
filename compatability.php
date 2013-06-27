@@ -120,28 +120,32 @@ class ElementCompatability  extends ElementRepeatable implements iRepeatSubmitta
 		    $badge_size = $this->app->document->addStylesheet('elements:compatability/assets/css/style.css');
 	        break;
 
+	        case '2':
+		    $badge_size = $this->app->document->addStylesheet('elements:compatability/assets/css/style.css.css');
+	        break;	        
+
 	    	}
 
             $html[] = '<div class="compat">';
 
             if ($this->getJ15()) {
-            $html[] = '<div class="compat15"></div>';
+            $html[] = '<div class="compat15">Joomla 1.5</div>';
             }           
 
             if ($this->getJ25()) {
-            $html[] = '<div class="compat25"></div>';
+            $html[] = '<div class="compat25">Joomla 2.5</div>';
             }
 
             if ($this->getJ30()) {
-            $html[] = '<div class="compat30"></div>';
+            $html[] = '<div class="compat30">Joomla 3.0</div>';
             }
 
             if ($this->getJ31()) {
-            $html[] = '<div class="compat31"></div>';
+            $html[] = '<div class="compat31">Joomla 3.1</div>';
             }            
 
             if ($this->getZoob()) {
-            $html[] = '<div class="compatzoo3"></div>';
+            $html[] = '<div class="compatzoo3">ZOO 3.X</div>';
             }
 
             $html[] = '</div>';

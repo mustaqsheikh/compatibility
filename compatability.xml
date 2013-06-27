@@ -13,9 +13,10 @@
 		<option value="1">Yes</option>
 		<option value="0">No</option>
 	</param>
-	<param name="badge_size" type="radio" default="1" label="Badge Size Big(Y) Small(N)" description="Choose to show the regular or smaller badges. Size Big(Yes) Small(No)">
-		<option value="1">Yes</option>
-		<option value="0">No</option>
+	<param name="badge_size" type="list" default="1" label="Badge Size Big(Y) Small(N)" description="Choose to show the regular or smaller badges. Size Big(Yes) Small(No)">
+		<option value="1">Official Joomla! Large</option>
+		<option value="0">Offical Joomla! Mini</option>
+		<option value="2">CSS Badges</option>
 	</param>
     <param name="j15" type="radio" default="1" label="Joomla 1.5 Native" description="Joomla 1.5 Native">
       <option value="1">Yes</option>
