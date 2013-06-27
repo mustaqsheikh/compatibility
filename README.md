@@ -16,7 +16,7 @@ Useful to Anyone:
 Using the Element
 -----------------
 
-Follow these siple steps:
+Follow these simple steps:
 
 * Download the package to your Desktop
 * Unzip on your Desktop
