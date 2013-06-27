@@ -3,7 +3,7 @@ ZOO compatibility Element
 
 ZOO element to show Joomla and ZOO version compatibility badges.
 
-This project is a work in progress. The current version if a 100% functional ZOO Element.
+This project is a work in progress. The current version if a 100% functional ZOO Element. Badges availble for Joomla 1.5, Joomla 2.5, Joomla 3.0, Joomla 3.1 and ZOO 3. In the future, I plan to add more extensionsbadges as requests come in.
 
 Using the Element
 -----------------
@@ -23,9 +23,9 @@ The element offers the following options ;
 
 <dl>
   <dt>Button Styles</dt>
-  <dd>You can choose to show the large or small Joomla! versions compatibility badges or pur CSS3 button badges</dd>
+  <dd>You can choose to show the large or small Joomla! versions compatibility badges or pure CSS3 button badges</dd>
   <dt>Global or per Item display</dt>
-  <dd>You can set global disaply options when you assign the element to your App Type. Using this option, the buttons will be enabled by default to all ZOO items in that particular App. Further, you have the option to set options on an individual per item basis in cases where you want to hide or show the badges depending on your needs.</dd>
+  <dd>You can set global display options when you assign the element to your App Type. Using this option, the buttons will be enabled by default to all ZOO items in that particular App. Further, you have the option to set options on an individual per item basis in cases where you want to hide or show the badges depending on your needs.</dd>
 </dl>
 
 Table for one
