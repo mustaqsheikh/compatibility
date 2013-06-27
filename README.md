@@ -61,7 +61,7 @@ Some Useful Links
   [2]: http://www.yootheme.com/zoo/documentation/  "ZOO Documentation"
   [3]: http://joomla.org/    "Joomla!"
   
-Contributing to ZOO Compatability Element
+Contributing to ZOO Compatibility Element
 -----------------------------------------
 
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
