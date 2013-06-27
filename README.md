@@ -3,7 +3,15 @@ ZOO compatibility Element
 
 ZOO element to show Joomla and ZOO version compatibility badges.
 
-This project is a work in progress. The current version if a 100% functional ZOO Element. Badges availble for Joomla 1.5, Joomla 2.5, Joomla 3.0, Joomla 3.1 and ZOO 3. In the future, I plan to add more extensionsbadges as requests come in.
+This project is a work in progress. 
+
+The current version if a 100% functional ZOO Element. Badges available for Joomla 1.5, Joomla 2.5, Joomla 3.0, Joomla 3.1 and ZOO 3. In the future, I plan to add more extensions badges as requests come in.
+
+
+Useful to Anyone:
+----------------
+
+* Using the excellent ZOO Extension to Blog about or distribute Joomla extensions, ZOO related extensions or other software in general.
 
 Using the Element
 -----------------
