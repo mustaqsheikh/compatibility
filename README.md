@@ -31,7 +31,7 @@ The element offers the following options ;
 
 <dl>
   <dt>Button Styles</dt>
-  <dd>You can choose to show the large or small Joomla! versions compatibility badges or pure CSS3 button badges</dd>
+  <dd>You can choose to show the large or small Joomla! versions compatibility badges or pure CSS3 button badges. The officail Joomla badges used here are as per the Joomla! Conditional Logo use guidelines, see [Conditional Use Logos](http://opensourcematters.org/conditional-use-policy.html)</dd>
   <dt>Global or per Item display</dt>
   <dd>You can set global display options when you assign the element to your App Type. Using this option, the buttons will be enabled by default to all ZOO items in that particular App. Further, you have the option to set options on an individual per item basis in cases where you want to hide or show the badges depending on your needs.</dd>
 </dl>
