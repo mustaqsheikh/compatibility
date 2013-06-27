@@ -17,45 +17,16 @@ Follow these siple steps:
 
 These are dangerous goodies though, and we need to make sure email addresses don't get mangled:
 
-My email addy is tom@github.com.
 
-Math is hard, let's go shopping
--------------------------------
+This is a sub heading
+---------------------
 
 In first grade I learned that 5 > 3 and 2 < 7. Maybe some arrows. 1 -> 2 -> 3. 9 <- 8 <- 7.
 
 Triangles man! a^2 + b^2 = c^2
 
-We all like making lists
-------------------------
-
-The above header should be an H2 tag. Now, for a list of fruits:
-
-* Red Apples
-* Purple Grapes
-* Green Kiwifruits
-
-Let's get crazy:
-
-1.  This is a list item with two paragraphs. Lorem ipsum dolor
-    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
-    mi posuere lectus.
-
-    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
-    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
-    sit amet velit.
-
-2.  Suspendisse id sem consectetuer libero luctus adipiscing.
-
-What about some code **in** a list? That's insane, right?
-
-1. In Ruby you can map like this:
-
-        ['a', 'b'].map { |x| x.uppercase }
-
-2. In Rails, you can do a shortcut:
-
-        ['a', 'b'].map(&:uppercase)
+This is a sub heading
+--------------------
 
 Some people seem to like definition lists
 
@@ -65,42 +36,6 @@ Some people seem to like definition lists
   <dt>Easier to use</dt>
   <dd>We've changed the product so that it's much easier to use!</dd>
 </dl>
-
-I am a robot
-------------
-
-Maybe you want to print `robot` to the console 1000 times. Why not?
-
-    def robot_invasion
-      puts("robot " * 1000)
-    end
-
-You see, that was formatted as code because it's been indented by four spaces.
-
-How about we throw some angle braces and ampersands in there?
-
-    <div class="footer">
-        &copy; 2004 Foo Corporation
-    </div>
-
-Set in stone
-------------
-
-Preformatted blocks are useful for ASCII art:
-
-<pre>
-             ,-. 
-    ,     ,-.   ,-. 
-   / \   (   )-(   ) 
-   \ |  ,.>-(   )-< 
-    \|,' (   )-(   ) 
-     Y ___`-'   `-' 
-     |/__/   `-' 
-     | 
-     | 
-     |    -hrr- 
-  ___|_____________ 
-</pre>
 
 Playing the blame game
 ----------------------
