@@ -11,7 +11,9 @@ div.compat {
   background: url(../images/compat_mini.png) no-repeat scroll 0 0 transparent;
   width:41px;
   height:16px;
-	float: left; 
+	float: left;
+  text-indent: 100px;  
+  overflow: hidden;    
 }
 
 .compat15 {

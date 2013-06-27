@@ -11,7 +11,9 @@ div.compat {
   background: url(../images/compat.png) no-repeat scroll 0 0 transparent;
   width:75px;
   height:16px;
-	float: left; 
+	float: left;
+  text-indent: 100px;  
+  overflow: hidden; 
 }
 
 .compat15 {
@@ -19,13 +21,17 @@ div.compat {
 }
 .compat25 {
   background-position:0px -23px;
+  text-indent: 100px;
 }
 .compat30 {
   background-position:0px -45px;
+  text-indent: 100px;
 }
 .compatzoo3 {
   background-position:0px -68px;
+  text-indent: 100px;
 }
 .creation-form .element div.nrow {
     margin-top: 10px;
+    text-indent: 100px;
 }
