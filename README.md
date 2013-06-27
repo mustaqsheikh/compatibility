@@ -22,10 +22,10 @@ Element Options
 The element offers the following options ;
 
 <dl>
-  <dt>Lower cost</dt>
-  <dd>The new version of this product costs significantly less than the previous one!</dd>
-  <dt>Easier to use</dt>
-  <dd>We've changed the product so that it's much easier to use!</dd>
+  <dt>Button Styles</dt>
+  <dd>You can choose to show the large or small Joomla! versions compatibility badges or pur CSS3 button badges</dd>
+  <dt>Global or per Item display</dt>
+  <dd>You can set global disaply options when you assign the element to your App Type. Using this option, the buttons will be enabled by default to all ZOO items in that particular App. Further, you have the option to set options on an individual per item basis in cases where you want to hide or show the badges depending on your needs.</dd>
 </dl>
 
 Table for two
