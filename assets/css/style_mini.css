@@ -1,0 +1,37 @@
+/* Copyright (C) 2011 HerdBoy.com */
+div.compat {
+	float: none;
+	height: 20px;
+	margin-top: 8px;
+	width: 100%;
+  min-width: 77px;
+}
+
+.compat15, .compat25, .compat30, .compat31, .compatzoo3 {
+  background: url(../images/compat_mini.png) no-repeat scroll 0 0 transparent;
+  width:41px;
+  height:16px;
+	float: left; 
+}
+
+.compat15 {
+  background-position:0px 0px;
+}
+.compat25 {
+  background-position:0px -23px;
+}
+.compat30 {
+  background-position:0px -45px;
+}
+.compat31 {
+  background-position:0px -68px;
+}
+.compatzoo3 {
+  background-position:0px -90px;
+}
+.creation-form .element div.nrow {
+    margin-top: 10px;
+}
+.element-compatability p.add {
+    display: none;
+}

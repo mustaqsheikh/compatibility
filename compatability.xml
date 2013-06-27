@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<element type="text" group="HerdBoy ZOO Elements" trusted="true">
+	<name>Compatability</name>
+	<author>Mustaq Sheikh</author>
+	<creationDate>March 2013</creationDate>
+	<copyright>Copyright (C) 2011 HerdBoy Web Design cc</copyright>
+	<authorEmail>info@herdboy.com</authorEmail>
+	<authorUrl>http://herdboy.com</authorUrl>
+	<version>3.1.0</version>
+	<description>Joomla Compatablity Element</description>
+	<params>
+	<param name="default" type="radio" default="1" label="Enabled By Default" description="Enabled by default">
+		<option value="1">Yes</option>
+		<option value="0">No</option>
+	</param>
+	<param name="badge_size" type="radio" default="1" label="Badge Size Big(Y) Small(N)" description="Choose to show the regular or smaller badges. Size Big(Yes) Small(No)">
+		<option value="1">Yes</option>
+		<option value="0">No</option>
+	</param>
+    <param name="j15" type="radio" default="1" label="Joomla 1.5 Native" description="Joomla 1.5 Native">
+      <option value="1">Yes</option>
+      <option value="0">No</option>
+    </param>
+    <param name="j25" type="radio" default="1" label="Joomla 2.5 Native" description="Joomla 2.5 Native">
+      <option value="1">Yes</option>
+      <option value="0">No</option>
+    </param>
+    <param name="j30" type="radio" default="1" label="Joomla 3.0 Native" description="Joomla 3.0 Native">
+      <option value="1">Yes</option>
+      <option value="0">No</option>
+    </param>
+    <param name="j31" type="radio" default="1" label="Joomla 3.1 Native" description="Joomla 3.1 Native">
+      <option value="1">Yes</option>
+      <option value="0">No</option>
+    </param>
+    <param name="zoob" type="radio" default="1" label="ZOO Native" description="ZOO Native">
+      <option value="1">Yes</option>
+      <option value="0">No</option>
+    </param>
+		<param name="access" type="zooaccesslevel" default="" label="Access Level" description="DETAILACCESS" />
+		<param name="repeatable" type="hidden" default="0" label="Repeatable" description="Add multiple text fields.">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</param>
+	</params>
+</element>
