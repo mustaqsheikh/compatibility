@@ -28,7 +28,7 @@ The element offers the following options ;
   <dd>You can set global disaply options when you assign the element to your App Type. Using this option, the buttons will be enabled by default to all ZOO items in that particular App. Further, you have the option to set options on an individual per item basis in cases where you want to hide or show the badges depending on your needs.</dd>
 </dl>
 
-Table for two
+Table for one
 -------------
 
 <table>
@@ -36,10 +36,7 @@ Table for two
     <th>Breakfast</th><th>Lunch</th><th>Supper</th>
   </tr>
   <tr>
-    <td>1</td><td>Bran Flakes</td><td>7 am</td>
-  </tr>
-  <tr>
-    <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
+    <td>Bran Flakes</td><td>Chicken Pita wrap</td><td>T Bone Steak and Chips</td>
   </tr>
 </table>
 
@@ -47,7 +44,9 @@ Some Useful Links
 --------------------
 
 [HerdBoy Web Design] [1]
+
 [ZOO Docs] [2]
+
 [Joomla!] [3].
 
   [1]: http://herdboy.com/        "HerdBoy Web Design"
