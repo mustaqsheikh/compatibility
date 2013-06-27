@@ -1,4 +1,4 @@
-ZOO compatability Element
+ZOO compatibility Element
 =========================
 
 ZOO element to show Joomla and ZOO version compatibility badges.
@@ -17,14 +17,6 @@ Follow these siple steps:
 
 These are dangerous goodies though, and we need to make sure email addresses don't get mangled:
 
-
-This is a sub heading
----------------------
-
-In first grade I learned that 5 > 3 and 2 < 7. Maybe some arrows. 1 -> 2 -> 3. 9 <- 8 <- 7.
-
-Triangles man! a^2 + b^2 = c^2
-
 This is a sub heading
 --------------------
 
@@ -36,25 +28,6 @@ Some people seem to like definition lists
   <dt>Easier to use</dt>
   <dd>We've changed the product so that it's much easier to use!</dd>
 </dl>
-
-Playing the blame game
-----------------------
-
-If you need to blame someone, the best way to do so is by quoting them:
-
-> I, at any rate, am convinced that He does not throw dice.
-
-Or perhaps someone a little less eloquent:
-
-> I wish you'd have given me this written question ahead of time so I
-> could plan for it... I'm sure something will pop into my head here in
-> the midst of this press conference, with all the pressure of trying to
-> come up with answer, but it hadn't yet...
->
-> I don't want to sound like
-> I have made no mistakes. I'm confident I have. I just haven't - you
-> just put me under the spot here, and maybe I'm not as quick on my feet
-> as I should be in coming up with one.
 
 Table for two
 -------------
@@ -71,12 +44,13 @@ Table for two
   </tr>
 </table>
 
-Crazy linking action
+Some Useful Links
 --------------------
 
-I get 10 times more traffic from [Google] [1] than from
-[Yahoo] [2] or [MSN] [3].
+[HerdBoy Web Design] [1]
+[ZOO Docs] [2]
+[Joomla!] [3].
 
-  [1]: http://google.com/        "Google"
-  [2]: http://search.yahoo.com/  "Yahoo Search"
-  [3]: http://search.msn.com/    "MSN Search"
+  [1]: http://herdboy.com/        "HerdBoy Web Design"
+  [2]: http://www.yootheme.com/zoo/documentation/  "ZOO Documentation"
+  [3]: http://joomla.org/    "Joomla!"
